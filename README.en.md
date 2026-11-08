@@ -1,6 +1,6 @@
 # Kinect v2 Windows Toolkit
 
-中文版本：[README.md](README.md)
+Chinese version: [README.md](README.md)
 
 Connect an **Xbox One Kinect v2** to Windows: install it with one script, use it as a camera in your applications, and optionally enable **Windows Hello** face sign-in.
 

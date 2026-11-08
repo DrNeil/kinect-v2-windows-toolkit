@@ -1,6 +1,6 @@
 # Windows Hello Face Sign-in with Kinect v2 — Research and Local Verification
 
-Chinese version: [windows-hello.md](windows-hello.md)
+中文版本：[windows-hello.md](windows-hello.md)
 
 > **Note:** Enabling Windows Hello is now included in the one-click installer
 > [`../install.ps1`](../install.ps1) (`-WindowsHello Yes`, or choose it when prompted).
